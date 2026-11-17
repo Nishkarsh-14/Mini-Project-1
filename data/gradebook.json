@@ -2,23 +2,23 @@
   "students": [
     {
       "id": 1,
-      "name": "Alice Johnson"
+      "name": "Ram"
     },
     {
       "id": 2,
-      "name": "Bob Smith"
+      "name": "Shyam"
     },
     {
       "id": 3,
-      "name": "Carol Lee"
+      "name": "Sita"
     },
     {
       "id": 4,
-      "name": "Dana"
+      "name": "Gita"
     },
     {
       "id": 5,
-      "name": "Nishkarsh Kaushal"
+      "name": "Nishkarsh"
     }
   ],
   "courses": [
@@ -27,16 +27,8 @@
       "title": "Intro to CS"
     },
     {
-      "code": "MATH200",
-      "title": "Discrete Math"
-    },
-    {
-      "code": "CS201",
-      "title": "Intro to Python"
-    },
-    {
-      "code": "MTH111",
-      "title": "Single variable calculus"
+      "code": "MATH201",
+      "title": "Mathematics"
     }
   ],
   "enrollments": [
@@ -44,43 +36,36 @@
       "student_id": 1,
       "course_code": "CS101",
       "grades": [
-        95.0,
-        88.0
-      ]
-    },
-    {
-      "student_id": 1,
-      "course_code": "MATH200",
-      "grades": [
-        92.0
+        90.0
       ]
     },
     {
       "student_id": 2,
       "course_code": "CS101",
       "grades": [
-        80.0
+        85.0
       ]
     },
     {
       "student_id": 3,
-      "course_code": "MATH200",
+      "course_code": "MATH201",
       "grades": [
-        76.0
+        92.0
       ]
     },
     {
-      "student_id": 1,
-      "course_code": "CS201",
+      "student_id": 4,
+      "course_code": "MATH201",
       "grades": [
         88.0
       ]
     },
     {
       "student_id": 5,
-      "course_code": "MTH111",
+      "course_code": "CS101",
       "grades": [
-        66.0
+        96.0,
+        68.0
       ]
     }
   ]
