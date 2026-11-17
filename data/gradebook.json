@@ -1,0 +1,72 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith"
+    },
+    {
+      "id": 3,
+      "name": "Carol Lee"
+    },
+    {
+      "id": 4,
+      "name": "Dana"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CS101",
+      "title": "Intro to CS"
+    },
+    {
+      "code": "MATH200",
+      "title": "Discrete Math"
+    },
+    {
+      "code": "CS201",
+      "title": "Intro to Python"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": 1,
+      "course_code": "CS101",
+      "grades": [
+        95.0,
+        88.0
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "MATH200",
+      "grades": [
+        92.0
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "CS101",
+      "grades": [
+        80.0
+      ]
+    },
+    {
+      "student_id": 3,
+      "course_code": "MATH200",
+      "grades": [
+        76.0
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "CS201",
+      "grades": [
+        88.0
+      ]
+    }
+  ]
+}
